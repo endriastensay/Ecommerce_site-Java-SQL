@@ -1,0 +1,14 @@
+=========================================
+           ASTU STORE RECEIPT         
+=========================================
+Date: Sat May 02 11:23:25 EAT 2026
+Buyer: godolias
+Payment Method: Credit Card (ending in egwe)
+-----------------------------------------
+Item                       Qty     Price
+-----------------------------------------
+Essence Mascara Lash...      1 $    7.99
+-----------------------------------------
+Total:                             $7.99
+=========================================
+      Thank you for shopping with us!    

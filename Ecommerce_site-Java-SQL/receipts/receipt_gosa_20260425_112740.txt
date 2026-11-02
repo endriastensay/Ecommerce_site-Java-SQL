@@ -1,0 +1,15 @@
+=========================================
+           MainFrame STORE RECEIPT         
+=========================================
+Date: Sat Apr 25 11:27:40 EAT 2026
+Buyer: gosa
+Payment Method: Credit Card (ending in 8789)
+-----------------------------------------
+Item                       Qty     Price
+-----------------------------------------
+Red Lipstick                 1 $   12.99
+Powder Canister              1 $   14.99
+-----------------------------------------
+Total:                            $27.98
+=========================================
+      Thank you for shopping with us!    
